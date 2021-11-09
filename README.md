@@ -14,7 +14,7 @@
 
 ### Conect with me:
 
-[<img align="left"> alt="Twitter Luis Colomé" width="24px" src="https://cdn.iconscout.com/icon/free/png-128/twitter-52-189786.png"][Twitter]
+[<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://cdn.iconscout.com/icon/free/png-128/twitter-52-189786.png">][Twitter]
 
 
 [website]: https://luiscolome.com
