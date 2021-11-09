@@ -14,7 +14,7 @@
 
 ### Conect with me:
 
-[<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/twitter.png">][Twitter]
+[<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/twitter.png">] Twitter[Twitter]
 
 
 [website]: https://luiscolome.com
