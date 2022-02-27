@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/twitter.png">][twitter]
-[<img align="left" alt="Codepen Luis Colomé" width="22px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/codepen.png">][codepen]
+[<img align="left" alt="Codepen Luis Colomé" width="22px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/codepen.svg">][codepen]
 [<img align="left" alt="Pinterest Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/pinterest.png">][pinterest]
 
 
