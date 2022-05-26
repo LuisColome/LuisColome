@@ -6,11 +6,11 @@
 
 ## I'm a Husband, Father, Developer, and sport lover!!
 
-- 🔭 I’m currently working on creating github pages.
-- 🌱 I’m currently learning JS basics.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn JS and contribute more to Open Source projects
-- 🌶️ Fun fact: I love to grow chili peppers.
+- 🔭 I’m currently developing WordPress custm themes.
+- 🌱 Learning JS basics.
+- 🌱 Planing and creating a Gutenberg side proyect.
+- 🥅 2022 Goals: Learn JS and get a better english level.
+- 🌶️ Fun fact: I love growing chili peppers.
 
 ### Connect with me:
 
