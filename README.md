@@ -14,11 +14,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/twitter.svg">][twitter]
+[<img align="left" alt="WordPress Luis Colomé" width="22px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/wordpress.svg">][wordpress]
 [<img align="left" alt="Codepen Luis Colomé" width="22px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/codepen.svg">][codepen]
+[<img align="left" alt="Twitter Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/twitter.svg">][twitter]
 [<img align="left" alt="Pinterest Luis Colomé" width="24px" src="https://github.com/LuisColome/LuisColome/blob/main/icons/pinterest.svg">][pinterest]
 
 [website]: https://luiscolome.com
 [twitter]: https://twitter.com/luiscolome
 [codepen]: https://codepen.io/luiscolome
+[wordpress]: https://profiles.wordpress.org/luiscolome/profile/
 [pinterest]: https://www.pinterest.es/Luisoncolome/web-design-inspiration/
