@@ -7,10 +7,10 @@
 ## I'm a Husband, Father, Developer, and sport lover!!
 
 -   🔭 I’m currently developing WordPress custom themes.
--   🌱 Learning JS basics.
+-   🌱 Learning JS as I can along the way.
 -   🌱 Planing and creating a Gutenberg side proyect.
--   🥅 2022 Goals: Study english and get better JS level.
--   🌶️ Fun fact: I love growing chili peppers.
+-   🥅 2023 Goals: New version of my updated portfolio.
+-   🌶️ Fun fact: I still (2023) love growing chili peppers.
 
 ### Connect with me:
 
